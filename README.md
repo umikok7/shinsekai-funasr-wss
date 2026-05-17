@@ -1,5 +1,7 @@
 # Shinsekai FunASR WSS
 
+[中文版](./README_zh.md) | English
+
 Plugin-marketplace ASR plugin for Shinsekai, connecting the built-in microphone flow to a self-hosted FunASR WebSocket service.
 
 ## What it does
